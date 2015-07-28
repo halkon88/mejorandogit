@@ -1,0 +1,35 @@
+commit e05751f384c085f64f6c89cd96c72957e88e0812
+Author: Lino Ramirez C <lino.ramirez@hotmail.com>
+Date:   Tue Jul 28 12:13:28 2015 -0600
+
+    6 - Se han agregado los sitios web desarrollados.
+
+commit 9c58245b6d20c70e3f0f9b514cd35941b5dfc9b9
+Author: Lino Ramirez C <lino.ramirez@hotmail.com>
+Date:   Tue Jul 28 12:07:37 2015 -0600
+
+    5 - Se ha agregado presentación de mi perfil.
+
+commit 9fec9f1214c20e16f96b95222aed20650f6f342b
+Author: Lino Ramirez C <lino.ramirez@hotmail.com>
+Date:   Sat Jul 11 12:55:45 2015 -0600
+
+    4- Se han agregado redes sociales
+
+commit 85bc3b4d027f7dc6de50d8e5e100c45c0cc72f34
+Author: Lino Ramirez C <lino.ramirez@hotmail.com>
+Date:   Sat Jul 11 12:52:15 2015 -0600
+
+    3- Se ha agregado perfil profesional
+
+commit 082ced2de3d80507d1106f3ccde0449164da16da
+Author: Lino Ramirez C <lino.ramirez@hotmail.com>
+Date:   Sat Jul 11 12:42:56 2015 -0600
+
+    2- Se agrego foto y mi nombre
+
+commit 1aa26edd39954eca9905ba31af09fdf8279409e4
+Author: Lino Ramirez C <lino.ramirez@hotmail.com>
+Date:   Sat Jul 11 12:35:14 2015 -0600
+
+    Archivos base del proyecto Portafolio
