@@ -1,3 +1,9 @@
+commit a393a1df2ec035af86ab0f56c06020f275a69480
+Author: Lino Ramirez C <lino.ramirez@hotmail.com>
+Date:   Tue Jul 28 12:25:46 2015 -0600
+
+    7 - cree un archivo texto con todos los commits generados hasta el momento.
+
 commit e05751f384c085f64f6c89cd96c72957e88e0812
 Author: Lino Ramirez C <lino.ramirez@hotmail.com>
 Date:   Tue Jul 28 12:13:28 2015 -0600
