@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
  background: rgb(80, 171, 148);
+=======
+ background: rgb(22, 21, 20);
+>>>>>>> upstream/master
  font-size: 16px;
 }
 
@@ -11,7 +15,11 @@ a
 
 ul
 {
+<<<<<<< HEAD
   margin: 20% 0;
+=======
+  margin: 20% 0 0% 0%;
+>>>>>>> upstream/master
 }
 
 ul li
@@ -67,6 +75,10 @@ header.sidebar
   background-size: cover;
   display: inline-block;
   vertical-align: top;
+<<<<<<< HEAD
+=======
+  position: absolute;
+>>>>>>> upstream/master
   bottom: 0;
   top: 0;
 }
@@ -100,7 +112,11 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
+<<<<<<< HEAD
   background: gray;
+=======
+  background: black;
+>>>>>>> upstream/master
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -143,6 +159,10 @@ div.layout-principal
   top: 0; 
   right: 0; 
   bottom: 0;  
+<<<<<<< HEAD
+=======
+  overflow-x: auto;
+>>>>>>> upstream/master
   width: 55%;
   padding: 0% 6.5%;
 }
